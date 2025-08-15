@@ -45,3 +45,6 @@
 </div>
 
 ###
+
+![snake gif](https://github.com/LeonardoGomesFerreira/SEU_REPOSITORIO/blob/output/github-contribution-grid-snake.svg)
+
